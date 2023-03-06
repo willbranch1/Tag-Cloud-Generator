@@ -14,10 +14,9 @@ import java.util.Scanner;
 import java.util.Set;
 
 /**
- * Simple HelloWorld program (clear of Checkstyle and FindBugs warnings).
+ * Tag Cloud Generator
  *
  * @author William Branch
- * @author Logan Brust
  */
 public final class TagCloudGeneratorStandardJavaLibrary {
 
